@@ -1,0 +1,20 @@
+D:\DERS\1. Sınıf Bahar Dönemi\Nesne Yönelimli Programlama\Ödev 2\2020-2021 Bahar Dönemi 2. Ödev 2. Soru\2020-2021 Bahar Dönemi 2. Ödev 2. Soru\bin\Debug\_2020_2021_Bahar_Dönemi_2.Ödev_2.Soru.exe.config
+D:\DERS\1. Sınıf Bahar Dönemi\Nesne Yönelimli Programlama\Ödev 2\2020-2021 Bahar Dönemi 2. Ödev 2. Soru\2020-2021 Bahar Dönemi 2. Ödev 2. Soru\bin\Debug\_2020_2021_Bahar_Dönemi_2.Ödev_2.Soru.exe
+D:\DERS\1. Sınıf Bahar Dönemi\Nesne Yönelimli Programlama\Ödev 2\2020-2021 Bahar Dönemi 2. Ödev 2. Soru\2020-2021 Bahar Dönemi 2. Ödev 2. Soru\bin\Debug\_2020_2021_Bahar_Dönemi_2.Ödev_2.Soru.pdb
+D:\DERS\1. Sınıf Bahar Dönemi\Nesne Yönelimli Programlama\Ödev 2\2020-2021 Bahar Dönemi 2. Ödev 2. Soru\2020-2021 Bahar Dönemi 2. Ödev 2. Soru\obj\Debug\2020-2021 Bahar Dönemi 2. Ödev 2. Soru.csprojAssemblyReference.cache
+D:\DERS\1. Sınıf Bahar Dönemi\Nesne Yönelimli Programlama\Ödev 2\2020-2021 Bahar Dönemi 2. Ödev 2. Soru\2020-2021 Bahar Dönemi 2. Ödev 2. Soru\obj\Debug\_2020_2021_Bahar_Dönemi_2.Ödev_2.Soru.Form1.resources
+D:\DERS\1. Sınıf Bahar Dönemi\Nesne Yönelimli Programlama\Ödev 2\2020-2021 Bahar Dönemi 2. Ödev 2. Soru\2020-2021 Bahar Dönemi 2. Ödev 2. Soru\obj\Debug\_2020_2021_Bahar_Dönemi_2.Ödev_2.Soru.Properties.Resources.resources
+D:\DERS\1. Sınıf Bahar Dönemi\Nesne Yönelimli Programlama\Ödev 2\2020-2021 Bahar Dönemi 2. Ödev 2. Soru\2020-2021 Bahar Dönemi 2. Ödev 2. Soru\obj\Debug\2020-2021 Bahar Dönemi 2. Ödev 2. Soru.csproj.GenerateResource.cache
+D:\DERS\1. Sınıf Bahar Dönemi\Nesne Yönelimli Programlama\Ödev 2\2020-2021 Bahar Dönemi 2. Ödev 2. Soru\2020-2021 Bahar Dönemi 2. Ödev 2. Soru\obj\Debug\2020-2021 Bahar Dönemi 2. Ödev 2. Soru.csproj.CoreCompileInputs.cache
+D:\DERS\1. Sınıf Bahar Dönemi\Nesne Yönelimli Programlama\Ödev 2\2020-2021 Bahar Dönemi 2. Ödev 2. Soru\2020-2021 Bahar Dönemi 2. Ödev 2. Soru\obj\Debug\_2020_2021_Bahar_Dönemi_2.Ödev_2.Soru.exe
+D:\DERS\1. Sınıf Bahar Dönemi\Nesne Yönelimli Programlama\Ödev 2\2020-2021 Bahar Dönemi 2. Ödev 2. Soru\2020-2021 Bahar Dönemi 2. Ödev 2. Soru\obj\Debug\_2020_2021_Bahar_Dönemi_2.Ödev_2.Soru.pdb
+D:\OKUL\1. Sinif Bahar Donemi\Nesne Yönelimli Programlama\Ödev 2\2020-2021 Bahar Dönemi 2. Ödev 2. Soru\2020-2021 Bahar Dönemi 2. Ödev 2. Soru\bin\Debug\_2020_2021_Bahar_Dönemi_2.Ödev_2.Soru.exe.config
+D:\OKUL\1. Sinif Bahar Donemi\Nesne Yönelimli Programlama\Ödev 2\2020-2021 Bahar Dönemi 2. Ödev 2. Soru\2020-2021 Bahar Dönemi 2. Ödev 2. Soru\bin\Debug\_2020_2021_Bahar_Dönemi_2.Ödev_2.Soru.exe
+D:\OKUL\1. Sinif Bahar Donemi\Nesne Yönelimli Programlama\Ödev 2\2020-2021 Bahar Dönemi 2. Ödev 2. Soru\2020-2021 Bahar Dönemi 2. Ödev 2. Soru\bin\Debug\_2020_2021_Bahar_Dönemi_2.Ödev_2.Soru.pdb
+D:\OKUL\1. Sinif Bahar Donemi\Nesne Yönelimli Programlama\Ödev 2\2020-2021 Bahar Dönemi 2. Ödev 2. Soru\2020-2021 Bahar Dönemi 2. Ödev 2. Soru\obj\Debug\2020-2021 Bahar Dönemi 2. Ödev 2. Soru.csproj.AssemblyReference.cache
+D:\OKUL\1. Sinif Bahar Donemi\Nesne Yönelimli Programlama\Ödev 2\2020-2021 Bahar Dönemi 2. Ödev 2. Soru\2020-2021 Bahar Dönemi 2. Ödev 2. Soru\obj\Debug\_2020_2021_Bahar_Dönemi_2.Ödev_2.Soru.Form1.resources
+D:\OKUL\1. Sinif Bahar Donemi\Nesne Yönelimli Programlama\Ödev 2\2020-2021 Bahar Dönemi 2. Ödev 2. Soru\2020-2021 Bahar Dönemi 2. Ödev 2. Soru\obj\Debug\_2020_2021_Bahar_Dönemi_2.Ödev_2.Soru.Properties.Resources.resources
+D:\OKUL\1. Sinif Bahar Donemi\Nesne Yönelimli Programlama\Ödev 2\2020-2021 Bahar Dönemi 2. Ödev 2. Soru\2020-2021 Bahar Dönemi 2. Ödev 2. Soru\obj\Debug\2020-2021 Bahar Dönemi 2. Ödev 2. Soru.csproj.GenerateResource.cache
+D:\OKUL\1. Sinif Bahar Donemi\Nesne Yönelimli Programlama\Ödev 2\2020-2021 Bahar Dönemi 2. Ödev 2. Soru\2020-2021 Bahar Dönemi 2. Ödev 2. Soru\obj\Debug\2020-2021 Bahar Dönemi 2. Ödev 2. Soru.csproj.CoreCompileInputs.cache
+D:\OKUL\1. Sinif Bahar Donemi\Nesne Yönelimli Programlama\Ödev 2\2020-2021 Bahar Dönemi 2. Ödev 2. Soru\2020-2021 Bahar Dönemi 2. Ödev 2. Soru\obj\Debug\_2020_2021_Bahar_Dönemi_2.Ödev_2.Soru.exe
+D:\OKUL\1. Sinif Bahar Donemi\Nesne Yönelimli Programlama\Ödev 2\2020-2021 Bahar Dönemi 2. Ödev 2. Soru\2020-2021 Bahar Dönemi 2. Ödev 2. Soru\obj\Debug\_2020_2021_Bahar_Dönemi_2.Ödev_2.Soru.pdb

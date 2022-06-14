@@ -1,0 +1,8 @@
+Operatör Bilgisi:
+        Tekli Operatör Sayısı: 2
+        İkili Operatör Sayısı: 8
+        Sayısal Operatör Sayısı: 10
+        İlişkisel Operatör Sayısı: 5
+        Mantıksal Operatör Sayısı: 3
+Operand Bilgisi:
+        Operand Sayısı: 33

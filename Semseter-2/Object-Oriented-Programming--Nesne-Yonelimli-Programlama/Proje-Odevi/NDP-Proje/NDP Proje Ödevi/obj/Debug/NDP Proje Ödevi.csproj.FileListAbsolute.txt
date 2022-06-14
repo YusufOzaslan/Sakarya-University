@@ -1,0 +1,10 @@
+C:\Users\YUSUF\Desktop\NDP Proje Ödevi\NDP Proje Ödevi\NDP Proje Ödevi\bin\Debug\NDP Proje Ödevi.exe.config
+C:\Users\YUSUF\Desktop\NDP Proje Ödevi\NDP Proje Ödevi\NDP Proje Ödevi\bin\Debug\NDP Proje Ödevi.exe
+C:\Users\YUSUF\Desktop\NDP Proje Ödevi\NDP Proje Ödevi\NDP Proje Ödevi\bin\Debug\NDP Proje Ödevi.pdb
+C:\Users\YUSUF\Desktop\NDP Proje Ödevi\NDP Proje Ödevi\NDP Proje Ödevi\obj\Debug\NDP Proje Ödevi.csprojAssemblyReference.cache
+C:\Users\YUSUF\Desktop\NDP Proje Ödevi\NDP Proje Ödevi\NDP Proje Ödevi\obj\Debug\NDP_Proje_Ödevi.Form1.resources
+C:\Users\YUSUF\Desktop\NDP Proje Ödevi\NDP Proje Ödevi\NDP Proje Ödevi\obj\Debug\NDP_Proje_Ödevi.Properties.Resources.resources
+C:\Users\YUSUF\Desktop\NDP Proje Ödevi\NDP Proje Ödevi\NDP Proje Ödevi\obj\Debug\NDP Proje Ödevi.csproj.GenerateResource.cache
+C:\Users\YUSUF\Desktop\NDP Proje Ödevi\NDP Proje Ödevi\NDP Proje Ödevi\obj\Debug\NDP Proje Ödevi.csproj.CoreCompileInputs.cache
+C:\Users\YUSUF\Desktop\NDP Proje Ödevi\NDP Proje Ödevi\NDP Proje Ödevi\obj\Debug\NDP Proje Ödevi.exe
+C:\Users\YUSUF\Desktop\NDP Proje Ödevi\NDP Proje Ödevi\NDP Proje Ödevi\obj\Debug\NDP Proje Ödevi.pdb

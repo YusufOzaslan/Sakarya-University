@@ -1,0 +1,162 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 15px;
+}
+
+body {
+    font-family: 'KoHo', sans-serif;
+    font-size: 1.6rem;
+    background-color: #333 !important;
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+header img {
+    float: left;
+    width: 12.5%;
+    height: 8rem;
+}
+
+img.baslik {
+    width: 100%;
+    height: auto;
+    float: left;
+}
+
+.clear {
+    clear: both;
+}
+
+header {
+    width: 100%;
+    font-size: 1.6rem;
+    text-align: center;
+    background-color: #2c3e50;
+}
+
+a.baslik {
+    padding: 2rem;
+    text-decoration: none;
+    color: blanchedalmond;
+    transition: all .4s;
+}
+
+a.baslik:hover {
+    color: #18bc9c;
+}
+
+.content {
+    background-color: rgb(234, 234, 234, 0.75);
+    margin: 10rem 20rem 10rem;
+    padding: 3rem;
+    border-radius: 1rem;
+}
+
+footer {
+    padding: 0.25rem;
+    background-color: #2c3e50;
+    text-align: center;
+    color: #18bc9c;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    left: 0;
+}
+
+.iletisim {
+    padding: 5rem 40rem 1rem;
+}
+
+@media screen and (max-width:1500px) {
+    html {
+        font-size: 12px;
+    }
+    .resim {
+        margin: 0 auto;
+        display: block;
+        width: 70%;
+        height: auto;
+    }
+}
+
+@media screen and (max-width:1200px) {
+    html {
+        font-size: 9px;
+    }
+    .resim {
+        margin: 0 auto;
+        display: block;
+        width: 60%;
+        height: auto;
+    }
+}
+
+@media screen and (max-width:900px) {
+    html {
+        font-size: 6px;
+    }
+    .resim {
+        margin: 0 auto;
+        display: block;
+        width: 50%;
+        height: auto;
+    }
+}
+
+@media screen and (max-width:600px) {
+    html {
+        font-size: 3px;
+    }
+}
+
+h2 {
+    text-align: center;
+}
+
+.login {
+    max-width: 60rem;
+    margin: auto;
+    background-color: rgb(234, 234, 234, 0.75);
+    border-radius: 1rem;
+}
+
+input[type="email"] {
+    width: 90%;
+    margin-left: 5%;
+    border-radius: 0.5rem;
+}
+
+input[type="password"] {
+    width: 90%;
+    margin-left: 5%;
+    border-radius: 0.5rem;
+}
+
+.film {
+    font-size: larger;
+    margin: 10rem 30rem 10rem;
+    background-color: rgb(44, 62, 80, 0.75);
+    padding: 4rem;
+    border-radius: 1rem;
+    color: bisque;
+}
+
+.resim {
+    margin: 0 auto;
+    display: block;
+    width: 75%;
+    height: auto;
+}
+
+.image {
+    padding: 1rem;
+    max-width: 100%;
+    height: auto;
+}
